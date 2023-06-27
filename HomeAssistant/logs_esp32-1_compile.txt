@@ -1,0 +1,21 @@
+INFO Reading configuration /config/esphome/esp32-1.yaml...
+INFO Generating C++ source...
+INFO Compiling app...
+Processing esp32-1 (board: esp32dev; framework: arduino; platform: platformio/espressif32 @ 5.2.0)
+--------------------------------------------------------------------------------
+Platform Manager: Installing platformio/espressif32 @ 5.2.0
+INFO Installing platformio/espressif32 @ 5.2.0
+Downloading  [####################################]  100%
+Unpacking  [####################################]  100%
+Platform Manager: espressif32@5.2.0 has been installed!
+INFO espressif32@5.2.0 has been installed!
+Tool Manager: Installing espressif/toolchain-xtensa-esp32 @ 8.4.0+2021r2-patch3
+INFO Installing espressif/toolchain-xtensa-esp32 @ 8.4.0+2021r2-patch3
+Downloading  [####################################]  100%          
+Unpacking  [####################################]  100%          
+Tool Manager: toolchain-xtensa-esp32@8.4.0+2021r2-patch3 has been installed!
+INFO toolchain-xtensa-esp32@8.4.0+2021r2-patch3 has been installed!
+Tool Manager: Installing platformio/framework-arduinoespressif32 @ ~3.20005.0
+INFO Installing platformio/framework-arduinoespressif32 @ ~3.20005.0
+Downloading  [####################################]  100%          
+Unpacking  [####################################]  100%          

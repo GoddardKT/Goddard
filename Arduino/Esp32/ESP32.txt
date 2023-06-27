@@ -1,0 +1,39 @@
+ESP32 Programación.
+
+
+04/09/22
+Instalacion de tarjeta ESP32 a IDE de arduino.
+
+Gestor de descarga:
+https://dl.espressif.com/dl/package_esp32_index.json
+
+Instalacion de librerias FireBase.
+Administrar bibliotecas 
+FireBase ESP32 Client by Mobitz
+
+
+07/09/22
+
+Se revisa programacion en:
+Aduino
+Web
+FireBase
+
+Tdodo funcionando de manera provicional
+
+LED enciende :3
+
+
+drv.rw servidor de pag web
+
+
+configuracion y programacionde ESP8266
+
+TP-Link_6070
+84867988
+
+INFINITUMC7E1
+3YEMEE5qCY
+
+https://dl.espressif.com/dl/package_esp32_index.json
+http://arduino.esp8266.com/stable/package_esp8266com_index.json
